@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando Front-end, javascript e descobrindo a linguagem AWS
+- 🌱 Estudando python, banco de dados  e descobrindo a linguagem de cloud  AWS
 - 📫 caroline.peixoto.x@gmail.com
 - 😄 Pronouns: ela/dela
 
